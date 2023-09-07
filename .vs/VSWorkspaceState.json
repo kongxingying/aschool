@@ -1,6 +1,19 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\shoolshare\\build\\classes",
+    "\\shoolshare\\build\\classes\\java",
+    "\\shoolshare\\build\\classes\\java\\main",
+    "\\shoolshare\\build\\classes\\java\\main\\com",
+    "\\shoolshare\\build\\classes\\java\\main\\com\\example",
+    "\\shoolshare\\build\\classes\\java\\main\\com\\example\\controller",
+    "\\shoolshare\\src",
+    "\\shoolshare\\src\\main",
+    "\\shoolshare\\src\\main\\java",
+    "\\shoolshare\\src\\main\\java\\com",
+    "\\shoolshare\\src\\main\\java\\com\\example",
+    "\\shoolshare\\src\\main\\java\\com\\example\\entity"
   ],
+  "SelectedNode": "\\shoolshare",
   "PreviewInSolutionExplorer": false
 }
